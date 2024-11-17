@@ -1,0 +1,17 @@
+transformers
+langchain_community
+langchain_google_genai
+langchain-openai
+langchain-huggingface
+langchain-ollama
+accelerate
+wandb
+## install vector stores: will install on the fly
+# following libraries required for specific document loader
+pandas
+pypdf
+PyMuPDF
+arxiv
+wikipedia
+# for text splitting
+langchain-text-splitters

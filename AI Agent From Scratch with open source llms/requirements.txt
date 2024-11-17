@@ -1,0 +1,10 @@
+# python -m venv .venv
+# cd .venv 
+# cd ./sripts/
+# ./activate
+
+openai
+streamlit
+pandas
+loguru
+python-dotenv

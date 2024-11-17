@@ -5,6 +5,13 @@ import math
 
 # Input Embeddings
 class IPEmbedding(nn.Module):
+    """
+    Hello Python:
+    Hello: [0,1,......,512]  # 512 len
+    Python: [0,1,......,512] # 512 len
+
+    
+    """
     def __init__(self, d_model:int, vocab_size:int):
         super().__init__()
         self.d_model = d_model # Embedding dims

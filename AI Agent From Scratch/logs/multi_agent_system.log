@@ -1,0 +1,50 @@
+2024-11-15T09:38:34.094917+0530 INFO [SummarizeTool sending message to LLM]
+2024-11-15T09:38:34.095914+0530 DEBUG system: You are an AI Assistant that summarize medical texts.
+2024-11-15T09:38:34.095914+0530 DEBUG user: Please provide a consise summary of the following medical text:
+
+onsillitis is inflammation of the tonsils in the upper part of the throat. It can be acute or chronic.[8][9][2] Acute tonsillitis typically has a rapid onset.[10] Symptoms may include sore throat, fever, enlargement of the tonsils, trouble swallowing, and enlarged lymph nodes around the neck.[1][2] Complications include peritonsillar abscess (quinsy).[1][3]
+
+Tonsillitis is most commonly caused by a viral infection and about 5% to 40% of cases are caused by a bacterial infection.[1][5][6] When caused by the bacterium group A streptococcus, it is classed as streptococcal tonsillitis[11] also referred to as strep throat.[12] Rarely bacteria such as Neisseria gonorrhoeae, Corynebacterium diphtheriae, or Haemophilus influenzae may be the cause.[5] Typically the infection is spread between people through the air.[6] A scoring system, such as the Centor score, may help separate possible causes.[1][5] Confirmation may be by a throat swab or rapid strep test.[1][5]
+
+Treatment efforts involve improving symptoms and decreasing complications.[5] Paracetamol (acetaminophen) and ibuprofen may be used to help with pain.[1][5] If strep throat is present the antibiotic penicillin by mouth is generally recommended.[1][5] In those who are allergic to penicillin, cephalosporins or macrolides may be used.[1][5] In children with frequent episodes of tonsillitis, tonsillectomy modestly decreases the risk of future episodes.[13]
+
+Summary:
+2024-11-15T09:38:34.460087+0530 ERROR [SummarizeTool Error during OpenAI Calls: 'Chat' object has no attribute 'call' .. retry 1/2]
+2024-11-15T09:38:34.461013+0530 INFO [SummarizeTool sending message to LLM]
+2024-11-15T09:38:34.462054+0530 DEBUG system: You are an AI Assistant that summarize medical texts.
+2024-11-15T09:38:34.462054+0530 DEBUG user: Please provide a consise summary of the following medical text:
+
+onsillitis is inflammation of the tonsils in the upper part of the throat. It can be acute or chronic.[8][9][2] Acute tonsillitis typically has a rapid onset.[10] Symptoms may include sore throat, fever, enlargement of the tonsils, trouble swallowing, and enlarged lymph nodes around the neck.[1][2] Complications include peritonsillar abscess (quinsy).[1][3]
+
+Tonsillitis is most commonly caused by a viral infection and about 5% to 40% of cases are caused by a bacterial infection.[1][5][6] When caused by the bacterium group A streptococcus, it is classed as streptococcal tonsillitis[11] also referred to as strep throat.[12] Rarely bacteria such as Neisseria gonorrhoeae, Corynebacterium diphtheriae, or Haemophilus influenzae may be the cause.[5] Typically the infection is spread between people through the air.[6] A scoring system, such as the Centor score, may help separate possible causes.[1][5] Confirmation may be by a throat swab or rapid strep test.[1][5]
+
+Treatment efforts involve improving symptoms and decreasing complications.[5] Paracetamol (acetaminophen) and ibuprofen may be used to help with pain.[1][5] If strep throat is present the antibiotic penicillin by mouth is generally recommended.[1][5] In those who are allergic to penicillin, cephalosporins or macrolides may be used.[1][5] In children with frequent episodes of tonsillitis, tonsillectomy modestly decreases the risk of future episodes.[13]
+
+Summary:
+2024-11-15T09:38:34.462054+0530 ERROR [SummarizeTool Error during OpenAI Calls: 'Chat' object has no attribute 'call' .. retry 2/2]
+2024-11-15T09:38:34.464223+0530 ERROR SummarizeAgent Error: [SummarizeTool] Failed to get response from OpenAI after 2 retries. 
+2024-11-15T09:41:14.914979+0530 INFO [SummarizeTool sending message to LLM]
+2024-11-15T09:41:14.929231+0530 DEBUG system: You are an AI Assistant that summarize medical texts.
+2024-11-15T09:41:14.929231+0530 DEBUG user: Please provide a consise summary of the following medical text:
+
+onsillitis is inflammation of the tonsils in the upper part of the throat. It can be acute or chronic.[8][9][2] Acute tonsillitis typically has a rapid onset.[10] Symptoms may include sore throat, fever, enlargement of the tonsils, trouble swallowing, and enlarged lymph nodes around the neck.[1][2] Complications include peritonsillar abscess (quinsy).[1][3]
+
+Tonsillitis is most commonly caused by a viral infection and about 5% to 40% of cases are caused by a bacterial infection.[1][5][6] When caused by the bacterium group A streptococcus, it is classed as streptococcal tonsillitis[11] also referred to as strep throat.[12] Rarely bacteria such as Neisseria gonorrhoeae, Corynebacterium diphtheriae, or Haemophilus influenzae may be the cause.[5] Typically the infection is spread between people through the air.[6] A scoring system, such as the Centor score, may help separate possible causes.[1][5] Confirmation may be by a throat swab or rapid strep test.[1][5]
+
+Treatment efforts involve improving symptoms and decreasing complications.[5] Paracetamol (acetaminophen) and ibuprofen may be used to help with pain.[1][5] If strep throat is present the antibiotic penicillin by mouth is generally recommended.[1][5] In those who are allergic to penicillin, cephalosporins or macrolides may be used.[1][5] In children with frequent episodes of tonsillitis, tonsillectomy modestly decreases the risk of future episodes.[13]
+
+Summary:
+2024-11-15T09:41:15.664336+0530 ERROR [SummarizeTool Error during OpenAI Calls: Error code: 401 - {'error': {'message': 'Incorrect API key provided: credenti**************_KEY. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}} .. retry 1/2]
+2024-11-15T09:41:15.664336+0530 INFO [SummarizeTool sending message to LLM]
+2024-11-15T09:41:15.664336+0530 DEBUG system: You are an AI Assistant that summarize medical texts.
+2024-11-15T09:41:15.664336+0530 DEBUG user: Please provide a consise summary of the following medical text:
+
+onsillitis is inflammation of the tonsils in the upper part of the throat. It can be acute or chronic.[8][9][2] Acute tonsillitis typically has a rapid onset.[10] Symptoms may include sore throat, fever, enlargement of the tonsils, trouble swallowing, and enlarged lymph nodes around the neck.[1][2] Complications include peritonsillar abscess (quinsy).[1][3]
+
+Tonsillitis is most commonly caused by a viral infection and about 5% to 40% of cases are caused by a bacterial infection.[1][5][6] When caused by the bacterium group A streptococcus, it is classed as streptococcal tonsillitis[11] also referred to as strep throat.[12] Rarely bacteria such as Neisseria gonorrhoeae, Corynebacterium diphtheriae, or Haemophilus influenzae may be the cause.[5] Typically the infection is spread between people through the air.[6] A scoring system, such as the Centor score, may help separate possible causes.[1][5] Confirmation may be by a throat swab or rapid strep test.[1][5]
+
+Treatment efforts involve improving symptoms and decreasing complications.[5] Paracetamol (acetaminophen) and ibuprofen may be used to help with pain.[1][5] If strep throat is present the antibiotic penicillin by mouth is generally recommended.[1][5] In those who are allergic to penicillin, cephalosporins or macrolides may be used.[1][5] In children with frequent episodes of tonsillitis, tonsillectomy modestly decreases the risk of future episodes.[13]
+
+Summary:
+2024-11-15T09:41:15.947352+0530 ERROR [SummarizeTool Error during OpenAI Calls: Error code: 401 - {'error': {'message': 'Incorrect API key provided: credenti**************_KEY. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}} .. retry 2/2]
+2024-11-15T09:41:15.950083+0530 ERROR SummarizeAgent Error: [SummarizeTool] Failed to get response from OpenAI after 2 retries. 
