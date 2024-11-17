@@ -1,8 +1,6 @@
 # LANGCHAIN_TRACING_V2=true
-LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
-LANGCHAIN_API_KEY="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"
-LANGCHAIN_PROJECT="pr-this-godfather-18" # Project name to create in LangSmith
+LANGCHAIN_ENDPOINT=""
+LANGCHAIN_API_KEY=""
+LANGCHAIN_PROJECT="" # Project name to create in LangSmith
 ## OpenAI Credentials
-# OPENAI_API_KEY= "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"
-# https://platform.openai.com/settings/proj_RGosLeWPdY0kqORDYZ87jE0j/api-keys
-OPENAI_API_KEY= "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"
+OPENAI_API_KEY= ""
